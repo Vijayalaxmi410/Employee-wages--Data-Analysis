@@ -11,4 +11,4 @@ Questions(KPI's)
 - Headcount by age distribution
 - Salary variation according to Educational Qualification
 - Cumulative of headcount by datejoin
-- Dashboard intraction <a href="
+- Dashboard intraction <a href="https://github.com/Vijayalaxmi410/Employee-wages--Data-Analysis/blob/main/Screenshot%20(11).png">View Dashboard<\a>
