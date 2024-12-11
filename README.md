@@ -3,7 +3,7 @@
 Visualization created for employees wages, leaves left, Headcount, and insights of their educational qualification
 # Dataset Used
 <a href="https://github.com/Vijayalaxmi410/Employee-wages--Data-Analysis/blob/main/Employee%20Salary%20Details.xlsx">Dataset</a>
-Questions(KPI's)
+# Questions(KPI's)
 - Total head count of salary
 - Average salary taken by employees
 - Average leave balance of each employees
@@ -11,4 +11,4 @@ Questions(KPI's)
 - Headcount by age distribution
 - Salary variation according to Educational Qualification
 - Cumulative of headcount by datejoin
-- Dashboard intraction <a href="https://github.com/Vijayalaxmi410/Employee-wages--Data-Analysis/blob/main/Screenshot%20(11).png">View Dashboard<\a>
+- Dashboard intraction <a href="https://github.com/Vijayalaxmi410/Employee-wages--Data-Analysis/blob/main/Screenshot%20(11).png">View Dashboard</a>
